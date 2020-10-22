@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
     // #ifndef ONLINE_JUDGE //not a part of code, to beautify input and output
-    //     freopen("input1.txt", "r", stdin);
-    //     freopen("output2.txt", "w", stdout);
+    //     freopen("input.txt", "r", stdin);
+    //     freopen("output.txt", "w", stdout);
     // #endif
     //code goes here
 
