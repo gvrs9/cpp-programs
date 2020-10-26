@@ -14,6 +14,10 @@
 
 <br>
 
+And you can access the playlist of c++ placement course here:
+
+<br>
+
 > Link To Apna College Playlist: https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
 
 ### I will be uploading more programs everyday or atleast once in two days. You can practice these programs to have a basic idea of cpp.
